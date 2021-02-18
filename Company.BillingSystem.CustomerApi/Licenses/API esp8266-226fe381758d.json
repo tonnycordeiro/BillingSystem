@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stone-candidate-testing",
+  "private_key_id": "5911b0b23d4120700165b817a7d51b84fa6f6f3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC1PVT+CAdzTGZd\nl6jVK/wl0p03WeuYgedqZtKZ01j481Zy8Y6qwU2XM7k+w2fHeumTY/Aw1kmNYUV6\nbzZLK5/ykjceJV6+Y98KUdRIS/8sJLShi1xmPKmKFNayH9zKkwp4QrDxo9RNNnzJ\nEaPeEpE422ZxZmNArQZkDmyYywRqcPKa9odiB1nwTLSEa5BohGBBv1Tf27dsCETq\nvQLqPGunaOXGaIvUubzGAszvxIv0cy7hDHLgvwqTDX1SSDFRyHI1A7AHlJMY8aA6\nNq+i19QwwPD1Lwez7if/lFcbrfiWUv92/XCi2kmIMtuRKV6OVZgBodtIGNJircI+\nR6KOfIOPAgMBAAECggEANWgNU44qI9+vioTWS3raooqdqWHl+trMxp3mEU4mObX7\nE4P69nZf1t53B/es7StbCQO6E6oRooe3YYzEAwKn72MGuutoL9JeNzxFwcgjOW7X\ni4L1h2r4yqe5XGPnPAp4W1fLrGkKdnZH7zgzgY0XHhoI5gG13ake6P0XIy8v7e06\ny51D7Un4GU3Uizvo6+6I6lI32m0yGw7h7Vj8ns+NczKhd3gKEG6NPSGmYiLmUVBg\n347m0rZlithPE9W44VOKdo8rTiz3Wrss136iQQjg2cx+Ys4oGwul+u6HW4lTinGS\nmULxxA8J9JlYYZj3d++SUZ2OZ0qG4FPzUlJfhniIAQKBgQDxVFY1w7VA5IEZfyf2\n6yaGVxf3xIooCQXfON0a6YKxYkFKcIyHHweR14uheAIXUdhAwlFVB+QpQYB2cqGP\nVu4L0YOSFuSS6nlmONPrfbZ4dC2HAzJj3lAH5mI1FOiwdpanBGBqlN3BUAiXgeZu\nRrJcLoF482O/2A3Q5Pww0Q9EQQKBgQDAQdpwcc7zdjBhNdP7X8lR2Hpe2RPi19x4\n1Vyy4B0JxQwvPp1uAlxMtkZXUk7ATDF9SSczdaGBOPnpp85Wl6O8J1l9oXdMONQt\nCDucfMpfuyBZaTsQTkAnOPNSdolFURYZ8qVcfzwv8G7QHC51Cj+f6xhS/ubwdlUG\nQ1+RpjOTzwKBgQDt4f1M6AqN2fCsClyBl9AU0lsM345z4lkIbYv90DoE0l6bmw/a\nzapvh3HbC2m8RPAO/bygPbQZOrj/iQVaPw1NVwwDgE91xm0+Zzv2QKgSWirakDsm\nmGh5MQ6TVnX8JBlirvy/ctiYimS9u81B3KxKE4mKiRhFbhpIVL+G+zy6QQKBgQCX\nPLZ7MevcdSLFtbRV0BnsOmC48AbGsYwLubu8MrRlFQ7qs1TgTxcQeWqIEoVEnCtq\nJPujbWto3csqVQjp8UuqHUI2o6fW2/V8nzdVeI0yFV/zNeZygzvQHuq5+ekuEAVU\n0B3oz2YnR/nD2Adrpm46fJOb5k0A5/UmgiVRy+5S3QKBgQDj5LgTobeipfLB/Xlu\nsPd9YI2nVWXFldDq6xSzsZqkCO2Ly0QKwk7LOHL97k6w+XlX/nS7LCsT92oDFlf9\nFFekOkkUIh9xDWb5V6/Zcg4268zjG+aBFvDe1/KyYZOn5phg/RpL003BHzAVcETN\nJgzWiHAXFR8/zw554IUyMBQMbA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cutomerapi@stone-candidate-testing.iam.gserviceaccount.com",
+  "client_id": "103454969350730847650",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cutomerapi%40stone-candidate-testing.iam.gserviceaccount.com"
+}

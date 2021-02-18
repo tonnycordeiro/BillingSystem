@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs
+/Company.BillingSystem.BillingApi/bin
+/Company.BillingSystem.BillingApi/obj
+/Company.BillingSystem.Common/obj
+/Company.BillingSystem.Common/bin/Debug/netcoreapp3.1
+/Company.BillingSystem.CustomerApi/obj
+/Company.BillingSystem.CustomerApi/bin/Debug/net5.0
+/Company.BillingSystem.CustomerCalculatorService/bin/Debug/net5.0
+/Company.BillingSystem.CustomerCalculatorService/obj
+/Company.BillingSystem.ReportApi/bin/Debug/net5.0
+/Company.BillingSystem.ReportApi/obj
+/Company.BillingSystem.XUnitTest/bin/Debug/net5.0
+/Company.BillingSystem.XUnitTest/obj

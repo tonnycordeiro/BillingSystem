@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.BillingSystem.BillingApi", "Company.BillingSystem.BillingApi\Company.BillingSystem.BillingApi.csproj", "{33B17463-6695-4FFF-8C0D-719CBB7A9EB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.BillingSystem.CustomerApi", "Company.BillingSystem.CustomerApi\Company.BillingSystem.CustomerApi.csproj", "{677615D3-013C-4D7C-A0C8-DBED8F687FF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.BillingSystem.Common", "Company.BillingSystem.Common\Company.BillingSystem.Common.csproj", "{5C81647E-C83C-49B8-8D45-35166DD000F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.BillingSystem.CustomerCalculatorService", "Company.BillingSystem.CustomerCalculatorService\Company.BillingSystem.CustomerCalculatorService.csproj", "{6621A478-ACCF-40C1-8555-5175A5A7EBD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.BillingSystem.ReportApi", "Company.BillingSystem.ReportApi\Company.BillingSystem.ReportApi.csproj", "{1CE5AF6D-AA1F-4D7B-93A8-726ECF0AFD91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company.BillingSystem.XUnitTest", "Company.BillingSystem.XUnitTest\Company.BillingSystem.XUnitTest.csproj", "{C6D10F85-036E-4CC1-8153-9A136BC36B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B17463-6695-4FFF-8C0D-719CBB7A9EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B17463-6695-4FFF-8C0D-719CBB7A9EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B17463-6695-4FFF-8C0D-719CBB7A9EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B17463-6695-4FFF-8C0D-719CBB7A9EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677615D3-013C-4D7C-A0C8-DBED8F687FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677615D3-013C-4D7C-A0C8-DBED8F687FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677615D3-013C-4D7C-A0C8-DBED8F687FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677615D3-013C-4D7C-A0C8-DBED8F687FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C81647E-C83C-49B8-8D45-35166DD000F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C81647E-C83C-49B8-8D45-35166DD000F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C81647E-C83C-49B8-8D45-35166DD000F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C81647E-C83C-49B8-8D45-35166DD000F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6621A478-ACCF-40C1-8555-5175A5A7EBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6621A478-ACCF-40C1-8555-5175A5A7EBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6621A478-ACCF-40C1-8555-5175A5A7EBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6621A478-ACCF-40C1-8555-5175A5A7EBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE5AF6D-AA1F-4D7B-93A8-726ECF0AFD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE5AF6D-AA1F-4D7B-93A8-726ECF0AFD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE5AF6D-AA1F-4D7B-93A8-726ECF0AFD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE5AF6D-AA1F-4D7B-93A8-726ECF0AFD91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D10F85-036E-4CC1-8153-9A136BC36B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D10F85-036E-4CC1-8153-9A136BC36B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D10F85-036E-4CC1-8153-9A136BC36B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D10F85-036E-4CC1-8153-9A136BC36B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947D17C7-B840-453A-A598-AEBBAED6DF90}
+	EndGlobalSection
+EndGlobal
